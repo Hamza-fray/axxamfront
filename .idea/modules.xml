@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/axxam.iml" filepath="$PROJECT_DIR$/.idea/axxam.iml" />
+      <module fileurl="file://$USER_HOME$/front/axxam2/.idea/axxam2.iml" filepath="$USER_HOME$/front/axxam2/.idea/axxam2.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/website/.idea/website.iml" filepath="$USER_HOME$/Downloads/website/.idea/website.iml" />
+    </modules>
+  </component>
+</project>
